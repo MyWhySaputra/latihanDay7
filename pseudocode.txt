@@ -1,0 +1,14 @@
+START
+
+FUNCTION
+    INPUT jari-jari
+
+    IF jari-jari bukan bilangan bulat THEN
+        TAMPILKAN "Input harus berupa bilangan bulat"
+        GOTO FUNCTION
+    END IF
+
+    keliling = 2 * 3.14 * jari-jari
+    
+    TAMPILKAN "Keliling lingkaran adalah ", keliling
+END

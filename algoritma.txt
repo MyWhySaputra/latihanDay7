@@ -1,0 +1,6 @@
+Langkah 1 : Mulai
+Langkah 2 : Masukkan nilai jari-jari lingkaran (r)
+Langkah 3 : Jika input bukan bilangan bulat, tampilkan pesan kesalahan dan kembali ke langkah 2
+Langkah 4 : Hitung keliling lingkaran (Keliling) menggunakan rumus Keliling = 2 * pi * r
+Langkah 5 : Tampilkan hasil perhitungan keliling lingkaran (Keliling)
+Langkah 6 : Selesai
